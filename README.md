@@ -105,7 +105,8 @@ Output training saved in folder `artifacts/`.
 * Validation Accuracy: 97–98%
 * Test Accuracy: ~95%
 
-Grafik training & validation loss/accuracy it's in the  `artifacts/plots/training_history.png`.
+Grafik training & validation loss/accuracy can be seen below:
+![Training History](https://github.com/AdityaAnanta123/Classification-Rice-Detection-using-MobileNetV2/blob/main/artifacts/plots/training_history.png)
 
 ---
 
@@ -136,4 +137,5 @@ Main Library in this project:
 
 ---
 ```
+
 
