@@ -1,0 +1,7 @@
+tensorflow>=2.12
+keras>=2.12
+flask>=2.0
+pillow
+matplotlib
+numpy
+kaggle

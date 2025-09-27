@@ -1,0 +1,6 @@
+__pycache__/
+.artifacts/
+artifacts/
+*.pyc
+data/raw/*.zip
+data/raw/__MACOSX
